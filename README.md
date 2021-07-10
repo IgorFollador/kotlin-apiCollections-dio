@@ -1,2 +1,2 @@
-# kotlin-apiCollections-dio
-Kotlin Collections - Bootcamp Santander (DIO)
+# Kotlin Collections 📚
+### Bootcamp Santander - Digital Innovation One - Mobile Developer Trail
